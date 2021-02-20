@@ -1,11 +1,13 @@
+# TodoApp
+
 
 ## Details of the Project 
 
 -->Single page web application to add, delete, manage daily todos.
--->This web app is components and directives-based. In this web app, I use a model to hold the attributes of todos, a service is used to manage the operations of todos. And the components help me to build each block (Html and logic) separately in this web app. 
--->Technology: TypeScript, Angular, Bootstrap
 
-# TodoApp
+-->This web app is components and directives-based. In this web app, I use a model to hold the attributes of todos, a service is used to manage the operations of todos. And the components help me to build each block (Html and logic) separately in this web app.
+
+-->Technology: TypeScript, Angular, Bootstrap
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.0.2.
 
